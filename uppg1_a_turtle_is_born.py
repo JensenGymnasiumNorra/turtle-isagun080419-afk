@@ -8,6 +8,6 @@ Hur stor blir cirkeln om du ändrar värdet av r till 50?
 import turtle
 
 
-
+turtle.circle(100)
 
 turtle.done()
